@@ -1,0 +1,23 @@
+{
+  "name": "zadanie-24.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha calculateTotalPoints.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszl95/zadanie-24.5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszl95/zadanie-24.5/issues"
+  },
+  "homepage": "https://github.com/lukaszl95/zadanie-24.5#readme",
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  }
+}
